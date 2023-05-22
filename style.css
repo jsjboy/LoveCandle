@@ -52,7 +52,7 @@ body {
     border: 0px ridge rgb(255,255,255);
     border-radius: 10px;
     }
-    
+
     .logo img{
    border:none;
     } 
@@ -121,6 +121,6 @@ body {
    }
    .CR {
     font-size: 0.75rem;
-    display: flex;
+    display: inline;
    }
    
