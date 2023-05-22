@@ -112,8 +112,8 @@ body {
     
     footer .boxs {
     min-height: 150px;
-    margin: 0px;
     padding: 0px;
+    margin: 0px;
     }
     
     footer .boxs:nth-child(4) {

@@ -52,9 +52,11 @@ body {
     border: 0px ridge rgb(255,255,255);
     border-radius: 10px;
     }
+    
     .logo img{
    border:none;
     } 
+
     footer {
     width:100%;
     min-height: 250px;
