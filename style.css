@@ -60,7 +60,6 @@ body {
     min-height: 250px;
     background: #272c3d;
     display: flex;
-    box-sizing: border-box;
     }
     
     footer .boxs {
@@ -77,13 +76,6 @@ body {
     margin-top: 50px;
     margin-bottom:20px;
     color: #7a89c4;
-    align-items: center;
-    }
-    
-    .boxs h5 {
-    color:#5568ad;
-    text-align: center;
-    
     }
     
     .boxs ul li {

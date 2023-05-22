@@ -121,10 +121,11 @@ body {
     }
     
     .boxs h2 {
+      margin-top: 50px;
     margin-bottom:20px;
     color: #7a89c4;
     }
-    
+
     .boxs ul li {
     margin: 10px 0px;
     list-style: none;
@@ -144,35 +145,26 @@ body {
     text-align: justify;
     font-size: 0.75rem;
     }
-    
-     
-     @media(max-width:950px) { 
-     }
-     footer .boxs
-     {
+     footer .boxs {
      width: 100%;
      text-align: center;
      }
      footer .boxs:nth-child(4) {
      width: 100%
      }
-     
-     
-     .footer {
-     width:100%;
-     height: 70px;
-     display:flex;
-     justify-content: space-between;
-     padding: 0px 20px;
-     align-items: center;
-     }
-   
+  
    .botfot {
    background:#272c3d;
+   text-align: center;
    }
    .botfot h3 {
    color: #8494d1;
+   text-align:left;
+   margin-left: 1em;
+   padding-top: 1em;
+   font-size: 30px;
    }
    .CR {
     font-size: 0.75rem;
+    display: flex;
    }
